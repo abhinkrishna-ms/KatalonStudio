@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hello  Dennypassword and confirm passwo_0e1ee9</name>
+   <tag></tag>
+   <elementGuidId>61a10df5-94cc-4c48-87e5-d24918356e67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.m-auto.reg-box</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b4dc3ddc-5ba0-4338-944d-ac57c932e03b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-auto reg-box</value>
+      <webElementGuid>c687db1b-aed2-4cbe-b3ef-c0c3afa82f17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Hello  Dennypassword and confirm password should matchNext</value>
+      <webElementGuid>86bd5213-9a64-402f-a4fa-b8beb5c46a96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;login-main-registration&quot;]/div[@class=&quot;item-position&quot;]/div[@class=&quot;reg-container&quot;]/div[@class=&quot;m-auto reg-box&quot;]</value>
+      <webElementGuid>1709b3ed-8b82-4a2c-a0b0-6791409315dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div[2]/div</value>
+      <webElementGuid>9cb12091-a386-4368-9230-57d12910e35b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Querent PBP'])[1]/following::div[2]</value>
+      <webElementGuid>33bb92b2-eefa-490e-9ccc-f87f67c37d17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>9c0dabdd-c187-440d-b46d-a990ac97e82a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Hello  Dennypassword and confirm password should matchNext' or . = ' Hello  Dennypassword and confirm password should matchNext')]</value>
+      <webElementGuid>576916be-592c-4148-b18f-6416de1e616b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
