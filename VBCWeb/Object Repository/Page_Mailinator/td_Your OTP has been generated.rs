@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Your OTP has been generated</name>
+   <tag></tag>
+   <elementGuidId>bcb4a6ea-3a9c-4973-8508-5e4efccd93cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/main/div[2]/div[3]/div/div[4]/div/div/table/tbody/tr[1]/td[2]
+</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>183e3b88-3d0b-4684-aa50-dde9492837dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeyup</name>
+      <type>Main</type>
+      <value>if (event.keyCode == 13) { showTheMessage('denny-1662723009-1274155710'); }</value>
+      <webElementGuid>d6d053d9-0055-4015-a695-3972b0d06b04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>showTheMessage('denny-1662723009-1274155710');</value>
+      <webElementGuid>c578a006-2c10-4d53-a0a0-fe0f9c772379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>d4980509-2a73-42ab-b5e7-1efcfc936733</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Your OTP has been generated!
+                </value>
+      <webElementGuid>70cec854-b511-432c-8cbf-6a148999b27b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;row_denny-1662723009-1274155710&quot;)/td[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>c036ec46-748c-4505-aa98-e23eaf5e21fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>b89364fe-0903-4b0a-b5fa-1cc2c5fbe356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeyup</name>
+      <type>Main</type>
+      <value>if (event.keyCode == 13) { showTheMessage('denny-1662723009-1274155710'); }</value>
+      <webElementGuid>04d1e2e2-e3d6-4f45-877b-018bb4d9270f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>showTheMessage('denny-1662723009-1274155710');</value>
+      <webElementGuid>aeea0480-802d-4678-84f9-15cc84ddc82a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>c2a6423d-1f69-47fe-b4bd-96aad61a62fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Your OTP has been generated!
+                </value>
+      <webElementGuid>1ddc3b28-8353-4a28-90b7-5693b6d0a13c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;row_denny-1662723009-1274155710&quot;)/td[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>680d36ee-7c26-4e60-9a0d-08b2ca4a7840</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//td[@onclick=&quot;showTheMessage('denny-1662723009-1274155710');&quot;])[2]</value>
+      <webElementGuid>d2e50ba4-041b-44a6-bbb2-4bc15a04744e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='row_denny-1662723009-1274155710']/td[3]</value>
+      <webElementGuid>6a67cfca-8bfa-4d17-aadf-524d6a7600ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='support@mangosciences.com'])[1]/following::td[1]</value>
+      <webElementGuid>7282129c-959a-4c41-aa06-b8b53202a294</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Received'])[2]/following::td[3]</value>
+      <webElementGuid>3f1b4a68-9715-45ae-9ccd-5022b8cdc419</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='just now'])[1]/preceding::td[1]</value>
+      <webElementGuid>0a8c4264-871d-48d6-b56c-b63675fcf69d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='support@mangosciences.com'])[2]/preceding::td[3]</value>
+      <webElementGuid>a07876ba-0c83-44e9-9ef5-f2551e0afbd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Your OTP has been generated!']/parent::*</value>
+      <webElementGuid>d96ee56e-65bd-4640-8767-8f53da9d6c55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/table/tbody/tr/td[3]</value>
+      <webElementGuid>89a5191f-8b79-4004-86f8-350d5291580a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+                    Your OTP has been generated!
+                ' or . = '
+                    Your OTP has been generated!
+                ')]</value>
+      <webElementGuid>c8f113d5-737c-429f-9cf8-9c9c73904e2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
