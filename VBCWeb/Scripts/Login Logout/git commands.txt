@@ -1,6 +1,0 @@
-//Stage the folder to move
-git add VBCMobile
-//Commit with Comment
-git commit -m "Fin.Asst Code"
-//Push to Master
-git push origin master
