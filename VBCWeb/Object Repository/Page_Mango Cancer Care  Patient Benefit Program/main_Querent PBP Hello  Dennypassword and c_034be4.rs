@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>main_Querent PBP Hello  Dennypassword and c_034be4</name>
+   <tag></tag>
+   <elementGuidId>f8907dcd-4877-40f2-a9b8-b0adb41d1d3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>main.login-main-registration</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>main</value>
+      <webElementGuid>5b754eaa-ace8-4abc-ac1d-b41b2524fc74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login-main-registration</value>
+      <webElementGuid>7296977f-7831-4ac5-89d8-a9ff35e5c966</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Querent PBP Hello  Dennypassword and confirm password should matchNext Privacy Policy|Terms of UseCopyright © 2022  Mango Cancer Care Inc. All rights reserved</value>
+      <webElementGuid>0bce5516-ad45-4dbd-9c83-1907772a9ae5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;login-main-registration&quot;]</value>
+      <webElementGuid>305d4891-6e3e-4c49-ba2c-7a550fb7e9e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main</value>
+      <webElementGuid>87763a70-8144-4798-9d0a-544e42248079</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main</value>
+      <webElementGuid>ddf00152-3229-494d-9f3d-ec14f1cd0ae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//main[(text() = 'Querent PBP Hello  Dennypassword and confirm password should matchNext Privacy Policy|Terms of UseCopyright © 2022  Mango Cancer Care Inc. All rights reserved' or . = 'Querent PBP Hello  Dennypassword and confirm password should matchNext Privacy Policy|Terms of UseCopyright © 2022  Mango Cancer Care Inc. All rights reserved')]</value>
+      <webElementGuid>47accad3-5e57-46d6-aa2b-d71b6064856a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

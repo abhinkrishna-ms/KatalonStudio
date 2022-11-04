@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select CountryIndia</name>
+   <tag></tag>
+   <elementGuidId>2d4239f7-e3c9-403d-b846-f2089c632252</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div/div/form/fieldset[2]/div/div[2]/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>63f4446a-75eb-4694-b4dc-3f66a73bd375</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Country</value>
+      <webElementGuid>28d2355a-6674-4736-a629-e70c40eb333f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>62eb2380-e804-406e-a918-36e645d12454</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select CountryIndia</value>
+      <webElementGuid>b1789d22-50d9-4f4c-98dc-9720a8c9e584</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;login-main&quot;]/div[2]/div[@class=&quot;reg-container self d-flex justify-content-center align-items-center  container&quot;]/div[@class=&quot;reg-box d-flex flex-column&quot;]/form[1]/fieldset[2]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[1]/select[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>8a0ad4ba-2df7-4162-a66e-28df0f2ec5c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div/div/form/fieldset[2]/div/div[2]/div/select</value>
+      <webElementGuid>efe7da9f-1874-4e02-82d8-dd29226ed751</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Details:'])[1]/following::select[2]</value>
+      <webElementGuid>8c8e5876-9038-4e67-b8d7-87c355715bd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click to copy Permanent Address data'])[1]/preceding::select[3]</value>
+      <webElementGuid>436d1b59-3221-4357-a580-667c74c5602f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hospital Details:'])[1]/preceding::select[6]</value>
+      <webElementGuid>b2d0d47b-88f1-4503-9092-57ed0ba6e0c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/select</value>
+      <webElementGuid>abc45f0b-eb8c-4ce7-8ca8-ebbea50bc10c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@placeholder = 'Country' and (text() = 'Select CountryIndia' or . = 'Select CountryIndia')]</value>
+      <webElementGuid>c0f5ff5d-6c02-403d-9a6c-d5ad1b34add2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

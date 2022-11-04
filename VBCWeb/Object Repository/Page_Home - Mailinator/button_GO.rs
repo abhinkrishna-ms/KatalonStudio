@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_GO</name>
+   <tag></tag>
+   <elementGuidId>ae246e04-24d9-40b1-8e1b-a928d00b93c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@value='Search for public inbox for free']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[value=&quot;Search for public inbox for free&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bed2b773-1ee9-4516-a16f-b112b1454454</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Search for public inbox for free</value>
+      <webElementGuid>5978859a-f02a-4525-ae6e-f19886d5b116</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>changeInbox('search'); return false;</value>
+      <webElementGuid>ecc3dbe9-946c-401e-95e6-f5cfb4a40938</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GO</value>
+      <webElementGuid>1008d851-370f-4a3e-8a9e-6bd350825692</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;g5core-top-bar g5core-top-bar-desktop&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;g5core-top-bar-inner&quot;]/div[@class=&quot;g5core-top-bar-left&quot;]/div[@class=&quot;g5core-top-bar-item g5core-tbi-custom-html-1&quot;]/button[1]</value>
+      <webElementGuid>74877b4e-aa84-4a5e-9f29-6850b43bc580</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@value='Search for public inbox for free']</value>
+      <webElementGuid>78002344-9a61-4b30-9f83-0ac9dc460260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='site-header']/div/div/div/div/div/button</value>
+      <webElementGuid>fc0a7e79-ca8b-424b-8174-5de6e7f9e3ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Public Inbox'])[1]/preceding::button[1]</value>
+      <webElementGuid>97a46407-1455-474c-a11a-14717d4466a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why Mailinator'])[1]/preceding::button[1]</value>
+      <webElementGuid>8b76cc07-09dd-4830-8808-1445676c87be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='GO']/parent::*</value>
+      <webElementGuid>8a86b285-4342-4e4f-8f30-c0a277a0cb1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>448b03f0-8042-45f8-8bdc-c3419ab6d70b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'GO' or . = 'GO')]</value>
+      <webElementGuid>b6ed4241-66c7-448c-befb-cb3e5aa458fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

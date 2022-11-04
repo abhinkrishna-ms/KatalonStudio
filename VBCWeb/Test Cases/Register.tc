@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4eaa85b-0627-4e84-bf1b-f864b0ec9696</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5e5ba7ea-611a-449a-ab78-c0cd943e3d5d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>75a5bfb3-ed6f-4a4b-828d-54c77e22bb8e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>27231117-5cb0-4044-a988-7e5660864cb3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.Name</defaultValue>
+      <description></description>
+      <id>5e5ba7ea-611a-449a-ab78-c0cd943e3d5d</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.Email</defaultValue>
+      <description></description>
+      <id>75a5bfb3-ed6f-4a4b-828d-54c77e22bb8e</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.Pass</defaultValue>
+      <description></description>
+      <id>27231117-5cb0-4044-a988-7e5660864cb3</id>
+      <masked>false</masked>
+      <name>Pass</name>
+   </variable>
+</TestCaseEntity>
